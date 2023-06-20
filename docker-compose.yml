@@ -1,8 +1,7 @@
 version: "3"
 
 services:
-  database:
-    container_name: databaseTesting
+  postgres:
     image: postgres:alpine
     environment:
       POSTGRES_USER: postgres
