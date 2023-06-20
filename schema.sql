@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS Users (
     Profession varchar(255)
 );
 
-INSERT INTO USERS (UserName, Age, City, Country, Profession)
+INSERT INTO Users (UserName, Age, City, Country, Profession)
  VALUES 
  ('Harry',31,'New York','US','Doctor'),
  ('Taylor',26,'Toronto','Canada','Engineer'),
