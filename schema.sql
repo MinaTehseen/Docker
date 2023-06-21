@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS students (
+CREATE TABLE IF NOT EXISTS customers (
     name varchar(255),
     age int,
     city varchar(255),

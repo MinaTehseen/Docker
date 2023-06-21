@@ -1,6 +1,5 @@
 
-
-INSERT INTO students (name, age, city, country, profession)
+INSERT INTO customers (name, age, city, country, profession)
  VALUES 
  ('Harry',31,'New York','US','Doctor'),
  ('Taylor',26,'Toronto','Canada','Engineer'),
